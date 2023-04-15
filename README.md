@@ -4,6 +4,9 @@
 As a coder I want a codebase that follows accessibility standards. I used the Scout Rule to leave the code a little cleaner than I found it to optimize for search engines. I have learned that web accessibility is important especially for businesses.
 
 
+## Visuals 
+<img src=".assets/images/screenshot.jpg" alt="Image of webpage screenshot">
+
 ## Installation
 
 N/A
