@@ -5,7 +5,6 @@ As a coder I want a codebase that follows accessibility standards. I used the Sc
 
 
 ## Visuals 
-<img src=".assets/images/screenshot.jpg" alt="Image of webpage screenshot">
 
 ## Installation
 
